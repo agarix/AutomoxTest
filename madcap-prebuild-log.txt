@@ -1,0 +1,35 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20250805122021
+Username: GRAZITTI\arun.kumar1
+RunAs User: GRAZITTI\arun.kumar1
+Configuration Name: 
+Machine: MADCAP-SERVER (Microsoft Windows NT 10.0.20348.0)
+Host Application: powershell.exe -ExecutionPolicy Bypass -File E:\AutomoxGit\ax-madcap\\UpdateLastCommitDates.ps1
+Process ID: 25524
+PSVersion: 5.1.20348.2849
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.20348.2849
+BuildVersion: 10.0.20348.2849
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is E:\AutomoxGit\ax-madcap\madcap-prebuild-log.txt
+===== Script Started =====
+Start Time: 08/05/2025 12:20:21
+
+Scanning folder: E:\AutomoxGit\ax-madcap\Content\Product Documentation
+
+--- Processing changed file: E:\AutomoxGit\ax-madcap\Content\Product Documentation\Agents\Agent Installation\Agent_Command_Line_Guide.htm ---
+Git Date Found: 05 August, 2025 12:16 PM
+Inserting new badge comment before </body>...
+Updated: E:\AutomoxGit\ax-madcap\Content\Product Documentation\Agents\Agent Installation\Agent_Command_Line_Guide.htm
+
+===== Script Completed =====
+End Time: 08/05/2025 12:20:21
+**********************
+Windows PowerShell transcript end
+End time: 20250805122021
+**********************

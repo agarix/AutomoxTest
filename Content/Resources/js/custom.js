@@ -348,7 +348,7 @@ document.addEventListener("DOMContentLoaded", function () {
 			const badge = document.createElement("p");
 			badge.className = "badge-wrapper";
 			badge.style.display = "block";
-			badge.innerHTML = `<label class="badgeNew" > New < /label> <span class="last-commit-date">Publish on: ${badgeDate}</span>`;
+			badge.innerHTML = `<span class="last-commit-date">Publish on: ${badgeDate}</span>`;
 
 			// Find the first H1 and insert the badge after it
 			const h1 = document.querySelector("h1");
